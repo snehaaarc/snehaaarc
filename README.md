@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sneha Roychowdhury
-- 👀 I’m interested in learning new things
+- 👀 I’m getting acquainted with coding
 - 🌱 I’m currently learning C and Python
-- 💞️ I’m an incoming undergrad at IGDTUW, New Delhi
+- 💞️ I’m an incoming ECE-AI undergrad at IGDTUW, New Delhi
 
 
 <!---
