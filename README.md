@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sneha Roychowdhury
-- 👀 I’m getting acquainted with coding
-- 🌱 I’m currently learning C++ and DSA
-- 💞️ I’m an ECE-AI undergrad at IGDTUW, New Delhi
+- 👀 I’m a newbie
+- 🌱 Currently learning C, C++ and DSA
+- 💞️ I’m an Electronics and Communication undergrad from Indira Gandhi Delhi Technical University, New Delhi
 
 
 <!---
