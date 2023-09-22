@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sneha Roychowdhury
-- 👀 I’m a newbie
+- ✨ I’m a newbie
 - 🌱 Currently learning C, C++ and DSA
-- 💞️ I’m an Electronics and Communication undergrad from Indira Gandhi Delhi Technical University, New Delhi
+- 👩🏻‍🎓 I’m an Electronics and Communication freshman from Indira Gandhi Delhi Technical University, New Delhi
 
 
 <!---
